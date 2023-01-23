@@ -20,7 +20,6 @@ h1 {
 div.main-container {
   display:flex;
   flex-direction: column;
-  margin: 10px;
   border: white solid 10px;
 }
 
@@ -31,7 +30,7 @@ footer{
   width: auto;
   height: auto;
   background-size: 100%;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
  
 }
 
@@ -50,7 +49,7 @@ section.skills div.skills{
   display: flex;
   flex: 2;
   align-items: flex-start;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 section.skills div.skills div{
